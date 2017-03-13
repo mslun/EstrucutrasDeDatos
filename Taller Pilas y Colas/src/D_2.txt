@@ -1,0 +1,317 @@
+18
+6
+1 4 19 5 5 1
+15
+ingresar bebea ddaba 69775
+ingresar bcbbc eacde 88158
+ingresar daece ccdde 43022
+ingresar cbaba acbee 76995
+salir 76995
+ingresar addcc dedce 18182
+ingresar ababe bcccb 42051
+ingresar eebab adaca 50130
+ingresar bbdbc edbab 38660
+salir 18182
+ingresar daedc aceec 45398
+ingresar ecbed bdbbe 47907
+salir 47907
+salir 88158
+ingresar cddbc addaa 62131
+8
+8 15 4 15 10 4 6 14
+14
+ingresar aedda adbce 12681
+ingresar ecbaa bacae 22983
+ingresar dddcc dadad 78629
+salir 22983
+salir 78629
+ingresar dcbda eebac 83307
+ingresar cdbbb ddbcb 32703
+ingresar aaceb cbdeb 44503
+ingresar ccede aebdd 81380
+salir 32703
+ingresar ccbec cdaea 29225
+salir 83307
+ingresar cbede ebbda 35536
+ingresar bdcda debab 64181
+7
+15 2 18 5 4 12 10
+11
+ingresar ceddb ccebc 48819
+salir 48819
+ingresar aabdc babce 96071
+ingresar dbbce abdcb 73526
+salir 96071
+ingresar ceacb dedec 71363
+ingresar eccca edadd 25833
+ingresar adced eddbe 97492
+ingresar edabe bdcae 75516
+ingresar bdbcd eeaaa 82090
+ingresar ddcbb aaaca 54933
+9
+19 7 12 13 5 9 19 2 18
+15
+ingresar acccb ddcee 53490
+ingresar caddd cadce 94755
+salir 94755
+ingresar aecbb eedcd 33209
+ingresar acaae ababe 18070
+ingresar cecbe aeace 18998
+salir 18070
+salir 53490
+ingresar dbdcb aaecc 17870
+ingresar cdabb cdedc 14141
+salir 17870
+ingresar dcbee cdbde 70473
+salir 70473
+ingresar bbaac bccab 17636
+ingresar dbbea caead 65915
+7
+16 17 3 16 4 15 5
+14
+ingresar bccdb ceaac 83899
+salir 83899
+ingresar aabea abecc 18668
+ingresar aacce ecadb 38128
+salir 18668
+ingresar cdaec ecabe 56406
+salir 56406
+ingresar eaabb caaec 13380
+ingresar acabe acbab 68769
+ingresar ceaad babcb 88377
+ingresar caace cdddc 68001
+ingresar ceaec bebec 27598
+ingresar cbbcc edcbc 49800
+ingresar dbaec baeda 65889
+14
+11 11 9 15 10 3 11 8 6 16 17 2 15 1
+15
+ingresar bebea daeee 17907
+salir 17907
+ingresar aceba baace 70495
+salir 70495
+ingresar aceda decee 45938
+ingresar cedda deccc 45409
+salir 45409
+salir 45938
+ingresar caceb eacac 97570
+ingresar eeecd addcc 11203
+ingresar abeec ecbde 19953
+ingresar dabeb dcbda 99710
+salir 19953
+salir 99710
+salir 97570
+4
+8 6 9 10
+14
+ingresar eddbd deebe 85877
+ingresar dbccb deddd 62425
+salir 62425
+ingresar eeeea ebabc 29533
+ingresar ecbcb ddbbc 57668
+ingresar eabee cbbbb 19717
+salir 57668
+ingresar cbeea bbaca 71334
+salir 29533
+ingresar bbcbd daccd 56653
+ingresar eabee bbabc 67247
+ingresar aaacd cbbce 38949
+ingresar dbacc ecabc 23941
+salir 23941
+7
+4 18 17 3 4 10 14
+15
+ingresar ecbba cabbd 65491
+ingresar abaec bdadc 25759
+ingresar eccdd ecede 19768
+salir 65491
+salir 25759
+salir 19768
+ingresar cccaa aaccc 29332
+ingresar eaaee cbdac 96144
+salir 96144
+ingresar dbeee abcdb 34239
+ingresar cadaa badde 70094
+salir 70094
+ingresar ccdee edbdd 35069
+ingresar acbcb eccab 97530
+ingresar abbcb ceaac 32003
+10
+4 1 2 1 3 1 6 11 2 11
+19
+ingresar cddac dcdab 37973
+ingresar decbe ccace 88438
+ingresar eabcb bcdba 44764
+salir 44764
+ingresar badca dbadc 63674
+ingresar abeec bcdde 35246
+ingresar eaece cdadb 99799
+salir 35246
+ingresar aacdb daadb 59416
+ingresar acbbb adbaa 74875
+salir 99799
+ingresar caace ebbac 12473
+ingresar cceab dceab 47032
+ingresar aeaed ceede 31874
+ingresar cacca aedcd 49158
+ingresar dadec dabcd 64525
+ingresar edeec cdaeb 11390
+ingresar aceaa bceca 85033
+ingresar deedc deceb 72551
+9
+14 17 15 11 7 5 18 5 13
+10
+ingresar eeece eadec 32587
+salir 32587
+ingresar dbacb acaed 81329
+ingresar ccead cbece 29334
+ingresar ebcee cadeb 65898
+salir 65898
+ingresar baead cdedc 37640
+ingresar ddecd cbead 84407
+ingresar eebcb cbdda 52373
+salir 37640
+10
+16 15 7 6 2 15 4 14 15 15
+19
+ingresar abeeb bbcdc 15013
+ingresar ceeab dbdde 29468
+ingresar bdecb bbccb 79884
+ingresar adcad acaed 11788
+ingresar abcad cdddd 83203
+salir 83203
+salir 79884
+salir 29468
+ingresar bcdce adebd 22803
+salir 22803
+ingresar babba bdeaa 85676
+ingresar eeaca cedce 23357
+ingresar eecdb cdbdd 23022
+salir 11788
+ingresar beedc daaca 59071
+ingresar daeee dcabe 45167
+salir 59071
+salir 23022
+ingresar ceadc baeab 48089
+7
+3 13 1 11 12 15 11
+10
+ingresar bdabc cdcbd 50173
+salir 50173
+ingresar eabcc abebb 62469
+ingresar abeba eabca 50116
+ingresar beaab cbabc 16761
+ingresar aadea bccbd 87983
+salir 50116
+ingresar cecec dedeb 37268
+ingresar ecbbe dcbcd 20617
+salir 62469
+10
+16 13 17 5 17 10 15 15 5 4
+16
+ingresar cedeb becbe 26551
+salir 26551
+ingresar cbedd abbde 60900
+salir 60900
+ingresar babee abcaa 30571
+ingresar eaddb aaadb 86846
+ingresar abbce dccdd 73678
+ingresar aedaa acadd 12234
+ingresar deceb aadcc 19468
+ingresar ceebe dceac 55262
+salir 73678
+ingresar dcbbc dcbaa 87870
+ingresar daadb babad 23387
+salir 30571
+ingresar dbace cbcab 17742
+ingresar dedad cbadc 21994
+4
+15 18 19 1
+15
+ingresar decad bdddb 34318
+ingresar ceeeb bdcdd 69157
+salir 69157
+salir 34318
+ingresar accae bdaae 76504
+ingresar bddcd ccdcc 29967
+ingresar cdeab deddc 94617
+salir 29967
+salir 94617
+ingresar dbccd dbcae 76248
+salir 76248
+ingresar dddbd beade 79488
+salir 79488
+ingresar cbcdb cbaba 88431
+ingresar abddb bebbb 52084
+10
+16 4 4 9 16 16 18 13 9 8
+10
+ingresar ebeda cacdb 91104
+ingresar aaacb daedb 51531
+salir 51531
+ingresar cbaea deedb 55122
+ingresar dcdbc bcdae 24064
+ingresar aacaa ddaad 42895
+salir 42895
+salir 55122
+ingresar cedec eaccd 30878
+salir 91104
+13
+2 14 6 13 10 7 6 15 4 17 12 5 5
+13
+ingresar dcaca ddada 93614
+ingresar abcdb ddedd 58216
+ingresar dddab aedac 52917
+ingresar baeee dbcae 64804
+ingresar ecaab dbaea 65677
+ingresar ebbce abcac 52745
+ingresar dcbde abdae 20510
+ingresar bcddc abedd 46651
+salir 58216
+ingresar cccec cccbd 34400
+salir 64804
+ingresar ebbab decda 76178
+ingresar cbdbc aaecd 77254
+11
+15 12 1 19 5 19 9 14 10 10 19
+18
+ingresar dbbcb accab 22260
+salir 22260
+ingresar cbdbb edbbb 38426
+ingresar eadde dacba 64526
+ingresar cbceb eabec 51594
+ingresar ecbdb ecbbc 93518
+ingresar eacdc adbbb 93667
+ingresar bcacc dacdd 25439
+ingresar edecb cedca 77338
+salir 93667
+salir 51594
+salir 93518
+ingresar cccaa dceac 92003
+salir 92003
+ingresar adeae daede 75816
+salir 25439
+ingresar ddacb ceabb 26032
+ingresar caeba abacc 87710
+3
+13 9 2
+19
+ingresar bebcd bebdc 29220
+ingresar ccade bcead 77331
+ingresar ccbcb dccab 25218
+ingresar accbd dcacd 94679
+ingresar ebcad edebb 96528
+ingresar dceba caaec 21610
+salir 21610
+ingresar beddd eebba 42587
+salir 96528
+salir 42587
+salir 29220
+salir 94679
+ingresar cdecc eeddd 42057
+ingresar eecab beeea 36194
+ingresar ecedb accec 43642
+ingresar cbaca ebacc 13331
+ingresar cbeae ebcba 74370
+salir 36194
+ingresar daeec eaacd 84937

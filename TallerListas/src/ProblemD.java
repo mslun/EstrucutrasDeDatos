@@ -44,10 +44,11 @@ public class ProblemD {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader in;
-		File f = new File("D_1.txt");
+		File f = new File("D_2.txt");
 		if (f.exists()) {
+                    System.out.println(f.exists());
 			in = new BufferedReader(new FileReader(f));
-			//System.setOut(new PrintStream(new File("D_1Out.txt")));
+			System.setOut(new PrintStream(new File("D_1Out.txt")));
 		} else {
 			in = new BufferedReader(new InputStreamReader(System.in));
 		}
